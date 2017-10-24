@@ -1,6 +1,7 @@
 package org.gm.sb.bootlearn;
 
 public class Demo {
+	private int age;
 	private long id;
 	private String name;
 	public long getId() {
